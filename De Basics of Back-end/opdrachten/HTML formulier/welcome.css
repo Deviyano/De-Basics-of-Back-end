@@ -1,0 +1,14 @@
+body{
+    padding-left: 35%;
+    padding-top: 20%;
+    padding-bottom: 25%;
+    background: linear-gradient(#80FFDB, #64DFDF, #48BFE3, #5390D9, #5E60CE);
+}
+
+.container{
+    font-family:"Comic Sans MS";
+}
+
+.required {
+    color: red;
+}
